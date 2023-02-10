@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>cd</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>FirstFrame</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>FirstFrame\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>FirstFrame\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+		<project>
+			<label>PlantFlowers</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+		<project>
+			<label>cd</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>cd\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>cd\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\PlantFlowers.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>FirstFrame\src\FirstFrame.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>

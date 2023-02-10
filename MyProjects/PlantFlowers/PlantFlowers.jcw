@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>PlantFlowers</label>
+		<id>8</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>PlantFlowers.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>FirstFrame\FirstFrame.jcp</path>
+		</project>
+		<project>
+			<path>PlantFlowers.jcp</path>
+		</project>
+		<project>
+			<path>cd\cd.jcp</path>
+		</project>
+	</projects>
+</workspace>

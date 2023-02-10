@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Trace</label>
+		<id>0</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Trace.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Trace.jcp</path>
+		</project>
+	</projects>
+</workspace>
